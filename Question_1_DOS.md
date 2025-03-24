@@ -29,7 +29,7 @@ delete unused files & programs
 update RAM
 [tips](https://support.microsoft.com/en-us/windows/tips-to-improve-pc-performance-in-windows-b3b3ef5b-5953-fb6a-2528-4bbed82fba96)
 [another website](https://www.crucial.com/articles/pc-users/how-to-fix-a-slow-computer)
-[ website](https://www.lifewire.com/why-is-my-computer-so-slow-5093810#toc-frequently-asked-questions-de331ec7-2e20-4a0f-86ca-777d8afac333)
+[ website](https://www.starleaf.com/blog/why-is-my-computer-so-slow-tips-and-tricks-to-solve-the-issue/#google_vignette)
 * list of questions
 * how old your computer?
 * have you restarted your pc recently?
