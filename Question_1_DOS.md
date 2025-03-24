@@ -34,6 +34,6 @@ update RAM
 * how old your computer?
 * have you restarted your pc recently?
 * what are the computer specifications (eg.. RAM size , processor type , storage capacity?
-* 
+  
 
 
